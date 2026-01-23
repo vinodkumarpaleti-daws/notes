@@ -7,7 +7,7 @@ JDK -> Java development kit
 JRE -> Java Runtime environment
 
 while developing we need JDK
-while developing JRE is enough
+while running JRE is enough
 
 JDK = JRE + development utilities
 
@@ -80,3 +80,7 @@ frontend logs -> backend component logs -> DB is running fine or not
 
 502 -> Bad gateway -> proxy server not able to get response from upstream server
 500 -> internal server error -> proxy able to reach upstream server, but proper response is not there
+
+https://typegrow.com/tools/linkedin-text-formatter
+
+https://www.linkedin.com/posts/sivakumar-reddy-mettukuru_devops-cloudcomputing-sre-activity-7420307090109259776-ylTD?utm_source=share&utm_medium=member_desktop&rcm=ACoAABDIcU0BU8bgQnwg0jN1W2BYG8lApo6P9Ec
